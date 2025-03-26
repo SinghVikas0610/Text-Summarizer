@@ -13,3 +13,5 @@ Pretrained Model: Uses google/pegasus-cnn_dailymail for high-quality text summar
 GPU Acceleration: Supports CUDA for faster inference on compatible devices.
 
 Easy-to-Use Interface: Simple script for summarizing any text input.
+
+Add-on : We can further make an UI for this using Flask.
