@@ -1,2 +1,15 @@
-# Text-Summarizer
- Text Summarization using PEGASUS This project uses Google's PEGASUS (google/pegasus-cnn_dailymail) for abstractive text summarization. Built with Hugging Face Transformers, it generates concise summaries efficiently. Supports GPU acceleration and provides an easy-to-use interface for summarizing long-form text.
+Text Summarization using PEGASUS (google/pegasus-cnn_dailymail)
+
+📌 Overview
+
+This project implements text summarization using Google's PEGASUS model (google/pegasus-cnn_dailymail). PEGASUS is a state-of-the-art NLP model optimized for abstractive text summarization, trained on large-scale datasets like CNN/DailyMail. The project utilizes Hugging Face Transformers for model deployment and inference.
+
+🚀 Features
+
+Abstractive Summarization: Generates concise and meaningful summaries rather than simply extracting key sentences.
+
+Pretrained Model: Uses google/pegasus-cnn_dailymail for high-quality text summarization.
+
+GPU Acceleration: Supports CUDA for faster inference on compatible devices.
+
+Easy-to-Use Interface: Simple script for summarizing any text input.
